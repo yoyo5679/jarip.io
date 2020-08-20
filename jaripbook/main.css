@@ -2,9 +2,12 @@ body{
     margin-left: 50px;
 }
 
+a{
+text-decoration:none; 
+}
+
 .name{
     color:blue;
-    
 }
 
 .name1{
