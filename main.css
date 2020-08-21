@@ -1,7 +1,13 @@
 body{
-    margin-left: 10px;
+    margin-left: 50px;
 }
 
 .name{
+    color:blue;
+    
+}
+
+.name1{
+    font-size: 20px;
     color:blue
 }
